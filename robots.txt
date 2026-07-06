@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://meiotoufa.github.io/sitemap.xml
