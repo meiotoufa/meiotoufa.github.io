@@ -24,6 +24,6 @@ Currently I work on three threads:
 
 Outside of academia, I've interned at Xiaohongshu and a quantitative asset manager, working on LLM agent post-training, reward modeling, and RAG systems for financial documents.
 
-Beyond research, I led [OpenHLE](https://meiotoufa.github.io/projects/openhle/), a benchmark of paper-level physics reasoning problems auto-synthesized from arXiv, and a multi-tool agent system with hierarchical HL/LL decoupling + failure-aware SFT that scored 0.282 on CRAG Task3 v5.
+Beyond research, I've also worked on evaluation benchmarks for paper-level physics reasoning and on multi-tool agent systems with hierarchical planning and failure-aware training.
 
 I read papers, write RL training code (Verl / LlamaFactory), and occasionally do Kaggle on the side — once top 18% on a high-frequency futures forecasting competition.
