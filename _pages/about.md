@@ -4,13 +4,6 @@ title: about
 permalink: /
 subtitle: <a href="https://www.fudan.edu.cn/">Fudan University</a> · M.Eng. in AI · <a href="mailto:meiwangyi@foxmail.com">meiwangyi@foxmail.com</a>
 
-profile:
-  align: right
-  image_circular: false
-  more_info: >
-    <p>Knowledge Works Lab</p>
-    <p>Fudan University, Shanghai</p>
-
 selected_papers: true
 social: true
 
