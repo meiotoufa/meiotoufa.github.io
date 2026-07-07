@@ -6,38 +6,39 @@
 @string{emnlp = {Conference on Empirical Methods in Natural Language Processing}}
 
 @inproceedings{mei2025nsir,
-  abbr        = {ACL},
+  abbr        = {ACL '25},
   bibtex_show = {true},
   title       = {Logical Consistency is Vital: Neural-Symbolic Information Retrieval for Negative-Constraint Queries},
   author      = {Xu, Guanghui* and Zhang, Zhe* and Mei, Wangyi* and others},
   booktitle   = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)},
   year        = {2025},
-  note        = {*Equal contribution},
+  note        = {*Equal contribution. Accepted to ACL 2025 (CCF-A).},
   selected    = {true},
-  additional_info = {CCF-A.},
   abstract    = {Dense retrievers over-rely on lexical co-occurrence and struggle with negative constraints ("exclude"/"without" conditions). We extend retrieval from pure semantic similarity to "semantically relevant + logically consistent" re-ranking. NS-IR converts query/document to first-order logic, aligns logic semantics, and applies negative-constraint-aware token reweighting. On the new NegConstraint benchmark it lifts MAP/nDCG@10 from BGE's 36.3/40.8 to 53.3/56.5, surpassing HyDE and InteR.}
 }
 
 @inproceedings{mei2025drrubric,
-  abbr        = {NeurIPS},
+  abbr        = {NeurIPS '25},
   bibtex_show = {true},
   title       = {Deep Research as Rubric for Reinforcement Learning},
   author      = {Mei, Wangyi and others},
   booktitle   = {Advances in Neural Information Processing Systems (NeurIPS)},
   year        = {2025},
-  note        = {Under Review},
+  note        = {Preprint, 2025. Under review at NeurIPS 2025.},
+  arxiv       = {2606.01091},
+  code        = {https://github.com/meiotoufa/DR-Rubric},
   selected    = {true},
   abstract    = {Open-ended reasoning and long-form generation lack reference answers, making verifiable rewards hard to construct. DR-Rubric splits reward design into a two-stage pipeline — task-relevant fact collection followed by fine-grained rubric generation — auto-generating per-query evaluation criteria for GRPO training. With only 1K–3K rubric-based RL instances, an 8B model matches or exceeds baselines trained on 16K–90K instances. A self-bootstrapping scheme lets the policy itself produce next-round rubrics, and we diagnose the non-monotonic bootstrap trajectory with a reward polarization metric.}
 }
 
 @inproceedings{mei2025bgpo,
-  abbr        = {EMNLP},
+  abbr        = {EMNLP '25},
   bibtex_show = {true},
   title       = {Learning To Think In Blocks: A Prior-Guided Reinforcement Learning Framework for Deep Research},
   author      = {Mei, Wangyi and others},
   booktitle   = {Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year        = {2025},
-  note        = {Under Review},
+  note        = {Preprint, 2025. Under review at EMNLP 2025.},
   selected    = {true},
   abstract    = {BGPO models each (think, toolcall) assistant turn as a minimal semantic decision block: length normalization within a block, equal-weight geometric aggregation across blocks. Credit is assigned by research decision, not token length. Training-side ratio variance drops ~17× over GRPO/DAPO, clipping effectively vanishes. A prior-guided warm start (decomposition, keyword extraction, HyDE, etc.) seeds the action space; BGPO then learns action composition from environment feedback. On 7 QA tasks 7B Qwen2.5+BGPO averages 0.708 vs 0.664 for Search-R1-7B; 14B reaches 0.767.}
 }
