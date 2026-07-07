@@ -24,6 +24,4 @@ Currently I work on three threads:
 
 Outside of academia, I interned at **Xiaohongshu** working on LLM agent post-training (anti-reward-hacking Plan Judges, Deep Research structured rewards), and at a **financial company** building RAG systems for research reports and structured financial data.
 
-Beyond published work, I've also built two side projects: an evaluation benchmark for paper-level physics reasoning, and a multi-tool agent system with hierarchical planning and failure-aware training (see [projects](https://meiotoufa.github.io/projects/)).
-
 I read papers, write RL training code (Verl / LlamaFactory), and occasionally do Kaggle on the side — once top 18% on a high-frequency futures forecasting competition.
