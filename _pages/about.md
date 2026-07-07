@@ -6,7 +6,6 @@ subtitle: <a href="https://www.fudan.edu.cn/">Fudan University</a> · M.Eng. in 
 
 profile:
   align: right
-  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Knowledge Works Lab</p>
