@@ -23,5 +23,3 @@ Currently I work on three threads:
 - **Logical consistency in retrieval** — [NS-IR](https://meiotoufa.github.io/projects/ns_ir/) (ACL 2025) re-ranks candidates by aligning first-order logic between queries and documents, fixing dense retrieval's blind spot for negative constraints.
 
 Outside of academia, I interned at **Xiaohongshu** working on LLM agent post-training (anti-reward-hacking Plan Judges, Deep Research structured rewards), and at a **financial company** building RAG systems for research reports and structured financial data.
-
-I read papers, write RL training code (Verl / LlamaFactory), and occasionally do Kaggle on the side — once top 18% on a high-frequency futures forecasting competition.
