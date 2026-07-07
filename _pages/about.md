@@ -22,7 +22,7 @@ Currently I work on three threads:
 - **Rubric-based verifiable rewards** for deep research — the [DR-Rubric](https://meiotoufa.github.io/projects/dr_rubric/) pipeline auto-generates per-query evaluation rubrics so policy optimization can run without reference answers, and bootstraps the rubric generator from the policy itself.
 - **Logical consistency in retrieval** — [NS-IR](https://meiotoufa.github.io/projects/ns_ir/) (ACL 2025) re-ranks candidates by aligning first-order logic between queries and documents, fixing dense retrieval's blind spot for negative constraints.
 
-From Nov 2025 I've been a **LLM Agent post-training intern at Xiaohongshu**, building anti-reward-hacking Plan Judges and the Deep Research structured reward pipeline. Before that I spent two years at Lanzhong Asset Management as an AI engineer intern, where I built a multi-service financial RAG system and an automated US-equity growth-scoring pipeline.
+Outside of academia, I've interned at Xiaohongshu and a quantitative asset manager, working on LLM agent post-training, reward modeling, and RAG systems for financial documents.
 
 Beyond research, I led [OpenHLE](https://meiotoufa.github.io/projects/openhle/), a benchmark of paper-level physics reasoning problems auto-synthesized from arXiv, and a multi-tool agent system with hierarchical HL/LL decoupling + failure-aware SFT that scored 0.282 on CRAG Task3 v5.
 
