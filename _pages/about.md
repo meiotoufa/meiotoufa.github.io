@@ -22,8 +22,8 @@ Currently I work on three threads:
 - **Rubric-based verifiable rewards** for deep research — the [DR-Rubric](https://meiotoufa.github.io/projects/dr_rubric/) pipeline auto-generates per-query evaluation rubrics so policy optimization can run without reference answers, and bootstraps the rubric generator from the policy itself.
 - **Logical consistency in retrieval** — [NS-IR](https://meiotoufa.github.io/projects/ns_ir/) (ACL 2025) re-ranks candidates by aligning first-order logic between queries and documents, fixing dense retrieval's blind spot for negative constraints.
 
-Outside of academia, I've interned at an internet company and a quantitative asset manager, working on LLM agent post-training, reward modeling, and RAG systems for financial documents.
+Outside of academia, I interned at **Xiaohongshu** working on LLM agent post-training (anti-reward-hacking Plan Judges, Deep Research structured rewards), and at a **financial company** building RAG systems for research reports and structured financial data.
 
-Beyond research, I've also worked on evaluation benchmarks for paper-level physics reasoning and on multi-tool agent systems with hierarchical planning and failure-aware training.
+Beyond published work, I've also built two side projects: an evaluation benchmark for paper-level physics reasoning, and a multi-tool agent system with hierarchical planning and failure-aware training (see [projects](https://meiotoufa.github.io/projects/)).
 
 I read papers, write RL training code (Verl / LlamaFactory), and occasionally do Kaggle on the side — once top 18% on a high-frequency futures forecasting competition.
